@@ -12,7 +12,7 @@ License-Url: http://www.ruby-lang.org/en/about/license.txt
 Vendor: ruby.org
 Cartridge-Version: 0.0.9
 Compatible-Versions: []
-Cartridge-Vendor: pbrazdil
+Cartridge-Vendor: redhat
 Categories:
 - service
 - ruby
